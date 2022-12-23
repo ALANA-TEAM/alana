@@ -121,4 +121,5 @@
 
       function getNews() {
         // Code to fetch and display the news goes here
+      }
 
