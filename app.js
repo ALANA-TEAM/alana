@@ -1,14 +1,3 @@
-<html>
-  <head>
-    <title>Voice Assistant</title>
-  </head>
-  <body>
-    <h1>Voice Assistant</h1>
-
-    <button id="start-button">Start</button>
-    <p id="transcript"></p>
-
-    <script>
       const startButton = document.querySelector('#start-button');
       const transcript = document.querySelector('#transcript');
 
@@ -132,8 +121,4 @@
 
       function getNews() {
         // Code to fetch and display the news goes here
-      }
-    </script>
-  </body>
-</html>
 
